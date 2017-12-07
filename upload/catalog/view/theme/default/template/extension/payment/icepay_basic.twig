@@ -1,0 +1,39 @@
+
+<form action="{{ action }}" method="post" id="payment" class="form-horizontal">
+    <div id="payment">
+        {% if issuers|length > 1 %}
+            <p><strong>{{ displayname }}</strong></p>
+            <label>Please select your issuer</label>
+            <select name="ic_issuer" style="padding: 5px;" class="form-control">
+                {% for issuer in issuers %}
+                    <option value="{{ issuer.IssuerKeyword }}">{{ issuer.Description }}</option>
+                {% endfor %}
+            </select>
+        {% else %}
+            <input type="hidden" name="ic_issuer" value="{{ issuers[0].IssuerKeyword }}"/>
+        {% endif %}
+    </div>
+</form>
+    {#{% if issuers|length > 1 %}#}
+        {#<h2><{{ displayname }}</h2>#}
+
+        {#<div class="panel-body" id="payment">#}
+            {#<table class="form">#}
+                {#<tr>#}
+                    {#<td><p>Please select your issuer</p></td>#}
+                {#</tr>#}
+                {#<tr>#}
+                    {#<td>Issuer</td>#}
+                    {#<td>#}
+                    {#</td>#}
+                {#</tr>#}
+            {#</table>#}
+        {#</div>#}
+
+
+    <div class="buttons">
+        <div class="pull-right">
+            <a id="button-confirm" onclick="$('#payment').submit();" class="btn btn-primary"><span>{{ button_confirm }}</span></a>
+        </div>
+    </div>
+
