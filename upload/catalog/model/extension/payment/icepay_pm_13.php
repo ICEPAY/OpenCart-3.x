@@ -11,5 +11,5 @@ require_once(realpath(dirname(__FILE__)) . '/icepay_basic.php');
 
 class ModelExtensionPaymentIcepayPm13 extends ModelExtensionPaymentIcepayBasic
 {
-    protected $pmCode = 13;
+	protected $pm_code = 13;
 }

@@ -11,5 +11,5 @@ require_once(realpath(dirname(__FILE__)) . '/icepay_basic.php');
 
 class ControllerExtensionPaymentIcepayPm9 extends ControllerExtensionPaymentIcepayBasic
 {
-    protected $pmCode = '9';
+	protected $pm_code = '9';
 }

@@ -14,7 +14,7 @@ $_['heading_title'] = 'ICEPAY';
 $_['tab_general'] = 'Merchant instellingen';
 $_['tab_statuscodes'] = 'Status Codes';
 $_['tab_paymentmethods'] = 'Betaal Methodes';
-$_['tab_about'] = 'Informatie';;
+$_['tab_about'] = 'Informatie';
 
 // Text
 $_['text_extension'] = 'Extensions';

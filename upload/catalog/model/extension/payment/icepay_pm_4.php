@@ -11,5 +11,5 @@ require_once(realpath(dirname(__FILE__)) . '/icepay_basic.php');
 
 class ModelExtensionPaymentIcepayPm4 extends ModelExtensionPaymentIcepayBasic
 {
-    protected $pmCode = 4;
+	protected $pm_code = 4;
 }
