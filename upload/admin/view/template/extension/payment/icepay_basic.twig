@@ -267,7 +267,9 @@
         e.preventDefault();
 
         jQuery.ajax({
-            type: 'post', url: '{{ icepay_ajax_get }}', data: {},
+            type: 'post',
+            url: 'index.php?route=extension/payment/icepay_basic/getMyPaymentMethods&user_token={{ user_token }}',
+            data: {},
             beforeSend: function () {
                 jQuery('#error-box').hide();
                 jQuery('#payment-table').hide();
@@ -300,7 +302,9 @@
         var formData = jQuery('#form').serialize();
 
         jQuery.ajax({
-            type: 'post', url: '{{ icepay_ajax_save }}', data: {content: formData},
+            type: 'post',
+            url: 'index.php?route=extension/payment/icepay_basic/saveMyPaymentMethods&user_token={{ user_token }}',
+            data: {content: formData},
             beforeSend: function () {
                 jQuery('#error-box').hide();
                 jQuery('#getMyPaymentMethods').hide();

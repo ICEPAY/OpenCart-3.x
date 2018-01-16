@@ -12,11 +12,11 @@ require_once realpath(dirname(__FILE__)) . '/icepay/icepay_api_webservice.php';
 class ModelExtensionPaymentIcepayBasic extends Model {
 	private $order = null;
 
-	public function loadPaymentMethodService() {
-		$api = Icepay_Api_Webservice::getInstance()->paymentMethodService();
-
-		return $this->setApiSettings($api);
-	}
+//	public function loadPaymentMethodService() {
+//		$api = Icepay_Api_Webservice::getInstance()->paymentMethodService();
+//
+//		return $this->setApiSettings($api);
+//	}
 
 	public function loadPaymentService() {
 		$api = Icepay_Api_Webservice::getInstance()->paymentService();
