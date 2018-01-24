@@ -241,6 +241,7 @@ class ControllerExtensionPaymentIcepayBasic extends Controller
 			"text_about_link",
 			"text_about_support",
 			"text_about_support_link",
+			"text_about_user_manual_link",
 			"button_save",
 			"button_cancel",
 			"tab_general",

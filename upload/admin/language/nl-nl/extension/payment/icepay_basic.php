@@ -25,7 +25,9 @@ $_['text_icepay_basic'] = '<img src="view/image/payment/icepay_basic.png" alt="I
 $_['text_about_logo'] = '<a onclick="window.open(\'http://www.icepay.com/webshop-modules/ideal-voor-opencart/\');"><img src="view/image/payment/icepay-logo.png" alt="ICEPAY" title="ICEPAY" border="0"/></a>';
 $_['text_about_link'] = '<a onclick="window.open(\'http://www.icepay.com/\');">www.icepay.com</a>';
 $_['text_about_support'] = 'Offici&euml;le ICEPAY module';
-$_['text_about_support_link'] = '<a onclick="window.open(\'https://github.com/ICEPAY/OpenCart-2.x/wiki\');">Handleiding (Engels)</a>';
+$_['text_about_user_manual_link'] = '<a onclick="window.open(\'https://github.com/ICEPAY/OpenCart-3.x/wiki\');">Handleiding (Engels)</a>';
+$_['text_about_support_link'] = '<a onclick="window.open(\'https://github.com/ICEPAY/OpenCart-3.x/issues\');">report an issue</a>';
+
 
 // Entry
 $_['entry_url'] = 'URL voor Succes/Error/Postback:';
