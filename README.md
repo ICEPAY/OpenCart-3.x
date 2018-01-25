@@ -7,9 +7,6 @@ Github Module webpage  https://github.com/ICEPAY/OpenCart-3.x
 
 ICEPAY Module page www.icepay.com
 
-Older versions are available from
-http://www.icepay.com/webshop-modules/online-payments-for-opencart
-
 ## Compatibility ##
 
 ICEPAY OpenCart 3.x Online Payment Module is compatible with the following OpenCart versions: 3.0.0.0; 3.0.1.1; 3.0.1.2; 3.0.2.0
