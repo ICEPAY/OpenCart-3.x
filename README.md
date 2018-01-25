@@ -52,7 +52,7 @@ Please note that you can only configure modules which are already installed.
 
 Fig.6
 
-To configure your **Merchant Settings** have a valid and approved ICEPAY merchant account. Login to the *ICEPAY Self Service Portal*  https://portal.icepay.com/ and open ***Edit website*** section of the website you want to configure. In case you cannot access *ICEPAY Self Service Portal* or you do not have a corresponding website available in the list of websites, please contact ICEPAY support. 
+To configure your **Merchant Settings** have a valid and approved ICEPAY merchant account. Login to the [*ICEPAY Self Service Portal*]( https://portal.icepay.com/) and open ***Edit website*** section of the website you want to configure. In case you cannot access *ICEPAY Self Service Portal* or you do not have a corresponding website available in the list of websites, please contact ICEPAY support. 
 
 After configuring your *Merchant Settings*, make corresponding changes in *Status Codes* and *Payment Methods*. In the *Active* column you can activate/deactivate payment methods by clicking into corresponding checkboxes [Fig. 7].
 
