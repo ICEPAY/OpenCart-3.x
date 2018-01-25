@@ -50,11 +50,11 @@ class ControllerExtensionPaymentIcepayBasic extends Controller
 
 		// Order statusses (Assuming default shop)
 		$order_statusses = array(
-			'payment_icepay_refund_status_id' => 11,
-			'payment_icepay_cback_status_id' => 13,
-			'payment_icepay_err_status_id' => 10,
-			'payment_icepay_ok_status_id' => 2,
-			'payment_icepay_open_status_id' => 1
+			'payment_icepay_basic_refund_status_id' => 11,
+			'payment_icepay_basic_cback_status_id' => 13,
+			'payment_icepay_basic_err_status_id' => 10,
+			'payment_icepay_basic_ok_status_id' => 2,
+			'payment_icepay_basic_open_status_id' => 1
 		);
 
 		$this->load->model('setting/setting');

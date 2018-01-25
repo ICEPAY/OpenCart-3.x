@@ -58,10 +58,7 @@ class ModelExtensionPaymentIcepayBasic extends Model {
 		$payment_method_id = str_replace('icepay_pm_', "", $order['payment_code']);
 		$payment_method_code = $this->getPaymentMethodCode($payment_method_id);
 
-		$language = $this->session->data['language'];
-		if (version_compare(VERSION, '2.2') >= 0) {
-			$language = substr($language, 0, 2);
-		}
+		$language =  strtoupper(substr($this->session->data['language'],0, 2));
 
 		$payment_obj = new Icepay_PaymentObject();
 		$payment_obj->setOrderID($order["order_id"])
@@ -229,7 +226,7 @@ class ModelExtensionPaymentIcepayBasic extends Model {
 	}
 
 	public function getOpenCartStatus($icepay_status_code) {
-		return $this->config->get(sprintf("icepay_%s_status_id", strtolower($icepay_status_code)));
+		return $this->config->get(sprintf("payment_icepay_basic_%s_status_id", strtolower($icepay_status_code)));
 	}
 
 	public function getOpencartOrder($order_id) {
