@@ -17,7 +17,7 @@ This module is available under the BSD-2-Clause. See the LICENSE file for more i
 
 ## Installation ##
 
-The latest version of ICEPAY OpenCart 3.x Online Payment Module can be downloaded from the ICEPAY website or directly from Github following the link:  https://github.com/ICEPAY/OpenCart-3.x
+The latest version of ICEPAY OpenCart 3.x Online Payment Module can be downloaded from the ICEPAY [website](https://icepay.com/) or directly from Github following the link:  https://github.com/ICEPAY/OpenCart-3.x
 
 Download the latest version of the compressed archive (zip) containing files required for the installation of OpenCart Online Payment Module version 3.0.0. The archive contains the module archive, README, LICENSE, and MODULE MANUAL files. Do not extract files from the module archive.
 
