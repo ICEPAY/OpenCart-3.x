@@ -3,9 +3,7 @@ ICEPAY Payment Module for OpenCart 3.x is a more robust, reliable and, at the sa
 
 With this module you will be able to offer a vast variety of most frequently used national and international online payment methods including iDEAL, GIROPAY, sofortbanking, text/sms payments, phone payments, credit cards Visa, MasterCard, American Express, Diners Club International, Maestro International, JCB, Laser, Carte Bleue, Dankort, CartaSi, debit cards and many other payment solutions for worldwide internet commerce.
 
-Github Module webpage  https://github.com/ICEPAY/OpenCart-3.x
-
-ICEPAY Module page www.icepay.com
+ICEPAY Module page https://icepay.com/webshop-modules/
 
 ## Compatibility ##
 
@@ -17,9 +15,7 @@ This module is available under the BSD-2-Clause. See the LICENSE file for more i
 
 ## Installation ##
 
-The latest version of ICEPAY OpenCart 3.x Online Payment Module can be downloaded from the ICEPAY [website](https://icepay.com/) or directly from Github following the link:  https://github.com/ICEPAY/OpenCart-3.x
-
-Download the latest version of the compressed archive (zip) containing files required for the installation of OpenCart Online Payment Module version 3.0.0. The archive contains the module archive, README, LICENSE, and MODULE MANUAL files. Do not extract files from the module archive.
+[Download](https://github.com/ICEPAY/OpenCart-3.x/releases) the latest version of the compressed archive (zip) containing files required for the installation of OpenCart Online Payment Module version 3.0.0. The archive contains the module archive, README, LICENSE, and MODULE MANUAL files. Do not extract files from the module archive.
 
 To upload ICEPAY OpenCart 3.x Online Payment Module, navigate to Extensions -> Extension Installer and click on the Upload button [Fig.1].
 
@@ -74,13 +70,10 @@ If you found a repeatable bug, and troubleshooting tips didn't help, be sure to 
 * 	Push to the branch (git push origin my-new-feature)
 * 	Create new Pull Request
 
-## Changelog ##
-Version 3.0.0	   Release     date	     Changes		
 
 ## Help ##
 
 Our support team professionals are always on standby and ready to assist you with installing and configuring the Module, or answer any questions relating to OpenCart-3.x Module troubleshooting.
 
-Find a detailed installation instruction on OpenCart-3.x wiki, create an issue [here](https://github.com/ICEPAY/OpenCart-3.x/issues) or leave your support request on [Github](https://github.com/ICEPAY/OpenCart-3.x/issues). 
+Find a detailed installation instruction on ICEPAY OpenCart 3.x Online Payment Module [wiki] (https://github.com/ICEPAY/OpenCart-3.x/wiki), create an issue [here](https://github.com/ICEPAY/OpenCart-3.x/issues) or leave your support request by sending an [email] (mailto:modules@icepay.com?subject=[ICEPAY OpenCart 3.x Online Payment Module]. 
 
-**We are always ready to help customers!**
