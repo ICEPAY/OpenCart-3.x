@@ -3,11 +3,10 @@ ICEPAY Payment Module for OpenCart 3.x is a more robust, reliable and, at the sa
 
 With this module you will be able to offer a vast variety of most frequently used national and international online payment methods including iDEAL, GIROPAY, sofortbanking, text/sms payments, phone payments, credit cards Visa, MasterCard, American Express, Diners Club International, Maestro International, JCB, Laser, Carte Bleue, Dankort, CartaSi, debit cards and many other payment solutions for worldwide internet commerce.
 
-ICEPAY Module page https://icepay.com/webshop-modules/
-
 ## Compatibility ##
 
-ICEPAY OpenCart 3.x Online Payment Module is compatible with the following OpenCart versions: 3.0.0.0; 3.0.1.1; 3.0.1.2; 3.0.2.0
+ICEPAY OpenCart 3.x Online Payment Module is compatible with the following OpenCart versions: 
+**3.0.0.0**; **3.0.1.1**; **3.0.1.2**; **3.0.2.0**
 
 ## License ##
 
@@ -15,7 +14,7 @@ This module is available under the BSD-2-Clause. See the LICENSE file for more i
 
 ## Installation ##
 
-[Download](https://github.com/ICEPAY/OpenCart-3.x/releases) the latest version of the compressed archive (zip) containing files required for the installation of OpenCart Online Payment Module version 3.0.0. The archive contains the module archive, README, LICENSE, and MODULE MANUAL files. Do not extract files from the module archive.
+[Download](https://github.com/ICEPAY/OpenCart-3.x/releases) the latest version of the archive containing files required for the installation of OpenCart Online Payment Module version 3.0.0. The archive contains the module, README, LICENSE, and user manual files.
 
 To upload ICEPAY OpenCart 3.x Online Payment Module, navigate to Extensions -> Extension Installer and click on the Upload button [Fig.1].
 
@@ -42,13 +41,11 @@ Go to Extensions -> Payments, in Payments list find the ICEPAY OpenCart Online P
 
 Fig. 5
 
-Please note that you can only configure modules which are already installed.
-
 **OpenCart** website will redirect you to the *ICEPAY OpenCart Online Payment Module* configuration page [Fig. 6], which has three tabs: *Merchant Settings*, *Status Codes*, *Payment methods*, and *About*.
 
 Fig.6
 
-To configure your **Merchant Settings** have a valid and approved ICEPAY merchant account. Login to the [*ICEPAY Self Service Portal*]( https://portal.icepay.com/) and open ***Edit website*** section of the website you want to configure. In case you cannot access *ICEPAY Self Service Portal* or you do not have a corresponding website available in the list of websites, please contact ICEPAY support. 
+To configure your **Merchant Settings** have a valid and approved ICEPAY merchant account. Login to the [*ICEPAY Self Service Portal*]( https://portal.icepay.com/) and open ***Edit website*** section of the website you want to configure. In case you cannot access *ICEPAY Self Service Portal* or you do not have a corresponding website available in the list of websites, please contact ICEPAY [support](https://icepay.com/support/). 
 
 After configuring your *Merchant Settings*, make corresponding changes in *Status Codes* and *Payment Methods*. In the *Active* column you can activate/deactivate payment methods by clicking into corresponding checkboxes [Fig. 7].
 
@@ -75,5 +72,5 @@ If you found a repeatable bug, and troubleshooting tips didn't help, be sure to 
 
 Our support team professionals are always on standby and ready to assist you with installing and configuring the Module, or answer any questions relating to OpenCart-3.x Module troubleshooting.
 
-Find a detailed installation instruction on ICEPAY OpenCart 3.x Online Payment Module [wiki] (https://github.com/ICEPAY/OpenCart-3.x/wiki), create an issue [here](https://github.com/ICEPAY/OpenCart-3.x/issues) or leave your support request by sending an [email] (mailto:modules@icepay.com?subject=[ICEPAY OpenCart 3.x Online Payment Module]. 
+Find a detailed installation instruction on ICEPAY OpenCart 3.x Online Payment Module [wiki](https://github.com/ICEPAY/OpenCart-3.x/wiki), create an issue [here](https://github.com/ICEPAY/OpenCart-3.x/issues) or leave your support request by sending an [email](mailto:modules@icepay.com?subject=ICEPAY%20OpenCart%203.x%20Online%20Payment%20Module). 
 
