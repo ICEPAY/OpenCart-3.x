@@ -5,7 +5,6 @@
 With this module you will be able to offer a vast variety of most frequently used national and international online payment methods including iDEAL, GIROPAY, sofortbanking, text/sms payments, phone payments, credit cards Visa, MasterCard, American Express, Diners Club International, Maestro International, JCB, Laser, Carte Bleue, Dankort, CartaSi, debit cards and many other payment solutions for worldwide internet commerce.
 
 ## Compatibility ##
-
 ICEPAY OpenCart 3.x Online Payment Module is compatible with the following OpenCart versions: 
 **3.0.0.0**; **3.0.1.1**; **3.0.1.2**; **3.0.2.0**
 
@@ -23,7 +22,7 @@ To upload *ICEPAY OpenCart 3.x Online Payment Module*, navigate to **Extensions*
 
 Fig. 1
 
-You will see how the Progress line colors green [Fig. 2].
+You will see how the Progress line colors green [Fig. 2]. 
 
 Fig. 2
 
@@ -48,7 +47,9 @@ Fig. 5
 
 Fig.6
 
-To configure your **Merchant Settings** have a valid and approved ICEPAY merchant account. Login to the [*ICEPAY Self Service Portal*]( https://portal.icepay.com/) and open ***Edit website*** section of the website you want to configure. In case you cannot access *ICEPAY Self Service Portal* or you do not have a corresponding website available in the list of websites, please contact ICEPAY [support](https://icepay.com/support/). 
+To configure your **Merchant Settings** have a valid and approved ICEPAY merchant account. Login to the [*ICEPAY Self Service Portal*]( https://portal.icepay.com/)\* and open ***Edit website*** section of the website you want to configure. 
+
+\* *In case you cannot access *ICEPAY Self Service Portal* or you do not have a corresponding website available in the list of websites, please contact ICEPAY [support](https://icepay.com/support/). If you do not have an account, visit the ICEPAY website at https://portal.icepay.com and sign up. After registration you will be able to try how the module works with your webshop*. 
 
 After configuring your *Merchant Settings*, make corresponding changes in *Status Codes* and *Payment Methods*. In the *Active* column you can activate/deactivate payment methods by clicking into corresponding checkboxes [Fig. 7].
 
