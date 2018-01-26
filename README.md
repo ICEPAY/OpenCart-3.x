@@ -1,6 +1,6 @@
 
 ## Introduction ##
-ICEPAY Payment Module for OpenCart 3.x is a more robust, reliable and, at the same time, more powerful, flexible and secure version of our time-tested extension that enables the use of ICEPAY payment methods for OpenCart webshops. Integrating ICEPAY with OpenCart 3.x is simple and seamless for customers, and fast and easy for installation and maintenance at the back end.
+*ICEPAY OpenCart 3.x Payment Module* is a more robust, reliable and, at the same time, more powerful, flexible and secure version of our time-tested extension that enables the use of ICEPAY payment methods for OpenCart webshops. Integrating ICEPAY with OpenCart 3.x is simple and seamless for customers, and fast and easy for installation and maintenance at the back end.
 
 With this module you will be able to offer a vast variety of most frequently used national and international online payment methods including iDEAL, GIROPAY, sofortbanking, text/sms payments, phone payments, credit cards Visa, MasterCard, American Express, Diners Club International, Maestro International, JCB, Laser, Carte Bleue, Dankort, CartaSi, debit cards and many other payment solutions for worldwide internet commerce.
 
@@ -17,7 +17,7 @@ This module is available under the BSD-2-Clause. See the LICENSE file for more i
 
 ## Installation ##
 
-[Download](https://github.com/ICEPAY/OpenCart-3.x/releases) the latest version of the archive containing files required for the installation of *OpenCart 3.x Online Payment Module version 3.0.0*. The archive contains the module, README, LICENSE, and user manual files.
+[Download](https://github.com/ICEPAY/OpenCart-3.x/releases) the latest version of the archive containing files required for the installation of *ICEPAY OpenCart 3.x Online Payment Module*. The archive contains the module, README, LICENSE, and user manual files.
 
 To upload *ICEPAY OpenCart 3.x Online Payment Module*, navigate to **Extensions** -> **Extension Installer** and click on the **Upload** button [Fig.1].
 
@@ -44,7 +44,7 @@ Go to Extensions -> Payments, in Payments list find the *ICEPAY OpenCart 3.x Onl
 
 Fig. 5
 
-**OpenCart** website will redirect you to the *ICEPAY OpenCart Online Payment Module* configuration page [Fig. 6], which has three tabs: *Merchant Settings*, *Status Codes*, *Payment methods*, and *About*.
+**OpenCart** website will redirect you to the *ICEPAY OpenCart 3.x Online Payment Module* configuration page [Fig. 6], which has three tabs: *Merchant Settings*, *Status Codes*, *Payment methods*, and *About*.
 
 Fig.6
 
