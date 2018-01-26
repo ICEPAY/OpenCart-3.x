@@ -1,3 +1,4 @@
+
 ## Introduction ##
 ICEPAY Payment Module for OpenCart 3.x is a more robust, reliable and, at the same time, more powerful, flexible and secure version of our time-tested extension that enables the use of ICEPAY payment methods for OpenCart webshops. Integrating ICEPAY with OpenCart 3.x is simple and seamless for customers, and fast and easy for installation and maintenance at the back end.
 
@@ -8,15 +9,17 @@ With this module you will be able to offer a vast variety of most frequently use
 ICEPAY OpenCart 3.x Online Payment Module is compatible with the following OpenCart versions: 
 **3.0.0.0**; **3.0.1.1**; **3.0.1.2**; **3.0.2.0**
 
+Compatibility with other versions of OpenCart has not been tested.
+
 ## License ##
 
 This module is available under the BSD-2-Clause. See the LICENSE file for more information.
 
 ## Installation ##
 
-[Download](https://github.com/ICEPAY/OpenCart-3.x/releases) the latest version of the archive containing files required for the installation of OpenCart Online Payment Module version 3.0.0. The archive contains the module, README, LICENSE, and user manual files.
+[Download](https://github.com/ICEPAY/OpenCart-3.x/releases) the latest version of the archive containing files required for the installation of *OpenCart 3.x Online Payment Module version 3.0.0*. The archive contains the module, README, LICENSE, and user manual files.
 
-To upload ICEPAY OpenCart 3.x Online Payment Module, navigate to Extensions -> Extension Installer and click on the Upload button [Fig.1].
+To upload *ICEPAY OpenCart 3.x Online Payment Module*, navigate to **Extensions** -> **Extension Installer** and click on the **Upload** button [Fig.1].
 
 Fig. 1
 
@@ -32,12 +35,12 @@ To install the module, click the Install button (“+” sign) [Fig. 4].
 
 Fig. 4
 
-You will see the following note at the top of the page: “Success: You have modified payments!” This means that the installation process has been successful.
+You will see the following note at the top of the page: *“Success: You have modified payments!”* This means that the installation process has been successful.
 
 ## Configuring the module ##
 
 To configure the module, log in to your administrator backend.
-Go to Extensions -> Payments, in Payments list find the ICEPAY OpenCart Online Payment Module and click on the Edit button next to it [Fig. 5]. 
+Go to Extensions -> Payments, in Payments list find the *ICEPAY OpenCart 3.x Online Payment Module* and click on the **Edit** button next to it [Fig. 5]. 
 
 Fig. 5
 
