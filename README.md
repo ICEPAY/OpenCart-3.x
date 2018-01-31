@@ -61,7 +61,7 @@ Fig. 7
 
 When you finish setting payment methods, click the button *Save Paymentmethods*, which is situated below the payment methods list.
 
-If you need a more detailed explanation on the configuration procedure, please read the provided installation instruction.
+If you need a more detailed explanation on the configuration procedure, please read the provided [installation instruction](https://github.com/ICEPAY/OpenCart-3.x/wiki).
 
 ## Bug report ##
 
