@@ -19,9 +19,13 @@ This module is available under the BSD-2-Clause. See the [LICENSE](https://githu
 
 To upload *ICEPAY OpenCart 3.x Online Payment Module*, navigate to **_Extensions_** => **_Installer_** and click on the **_Upload_** button [Fig.1].
 
+![fig. 1](https://raw.githubusercontent.com/wiki/ICEPAY/OpenCart-3.x/images/master/fig_1.PNG)
+
 Fig. 1
 
 You will see how the **_Progress_** line colors green [Fig. 2]. 
+
+![fig. 2](https://raw.githubusercontent.com/wiki/ICEPAY/OpenCart-3.x/images/master/fig_2.PNG)
 
 Fig. 2
 
