@@ -31,9 +31,13 @@ Fig. 2
 
 Now you can find your module in the **_Extensions_** => **_Payments list_** [Fig. 3].
 
+![fig. 3](https://raw.githubusercontent.com/wiki/ICEPAY/OpenCart-3.x/images/master/fig_3.PNG)
+
 Fig. 3
 
 To install the module, click the _Install_ button (“+” sign) [Fig. 4]. 
+
+![fig. 4](https://raw.githubusercontent.com/wiki/ICEPAY/OpenCart-3.x/images/master/fig_4.PNG)
 
 Fig. 4
 
@@ -44,9 +48,13 @@ You will see the following note at the top of the page: *“Success: You have mo
 To configure the module, log in to your administrator backend.
 Go to **_Extensions_** => **_Payments_**. In **_Payments list_** find the *ICEPAY OpenCart 3.x Online Payment Module* and click on the *Edit* button next to it [Fig. 5]. 
 
+![fig. 5](https://raw.githubusercontent.com/wiki/ICEPAY/OpenCart-3.x/images/master/fig_5.PNG)
+
 Fig. 5
 
 **OpenCart** website will redirect you to the *ICEPAY OpenCart 3.x Online Payment Module* configuration page [Fig. 6], which has three tabs: *Merchant Settings*, *Status Codes*, *Payment methods*, and *About*.
+
+![fig. 6](https://raw.githubusercontent.com/wiki/ICEPAY/OpenCart-3.x/images/master/fig_6.PNG)
 
 Fig.6
 
@@ -59,6 +67,8 @@ After configuring your *Merchant Settings*, make corresponding changes in *Statu
 Open *Status Codes* tab and order status mapping between ICEPAY system statuses and statuses of your OpenCart webshop.
 
 To configure *Payment Methods*, click on *Get My Paymentmethods*. In the *Active* column you can activate/deactivate payment methods by clicking into corresponding checkboxes. In the *Displayname* column you may change the names of payment methods. Configure correspondingly also the *Store* and *Geo Zone* columns [Fig. 7].
+
+![fig. 7](https://raw.githubusercontent.com/wiki/ICEPAY/OpenCart-3.x/images/master/fig_7.PNG)
 
 Fig. 7
 
