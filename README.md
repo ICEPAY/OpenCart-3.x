@@ -1,5 +1,8 @@
 ![](https://icepay.com/app/themes/icepay/dist/images/logos/logo_icepay.svg)
 
+
+# ICEPAY OpenCart 3.x Online Payment Module #
+
 ## Introduction ##
 *ICEPAY OpenCart 3.x Payment Module* is a more robust, reliable and, at the same time, more powerful, flexible and secure version of our time-tested extension that enables the use of ICEPAY payment methods for OpenCart webshops. Integrating ICEPAY with OpenCart 3.x is simple and seamless for customers, and fast and easy for installation and maintenance at the back end.
 
