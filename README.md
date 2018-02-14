@@ -20,7 +20,7 @@ This module is available under the BSD-2-Clause. See the [LICENSE](https://githu
 
 ## Installation ##
 
-[Download](https://github.com/ICEPAY/OpenCart-3.x/releases) the latest version of the archive containing files required for the installation of *ICEPAY OpenCart 3.x Online Payment Module*. The archive contains the module, README, LICENSE, and user manual files.
+[Download](https://github.com/ICEPAY/OpenCart-3.x/releases) the latest version of the archive containing files required for the installation of *ICEPAY OpenCart 3.x Payment Module*. The archive contains the module, README, LICENSE, and user manual files.
 
 To upload *ICEPAY OpenCart 3.x Online Payment Module*, navigate to **_Extensions_** => **_Installer_** and click on the **_Upload_** button [Fig.1].
 
@@ -51,13 +51,13 @@ You will see the following note at the top of the page: *“Success: You have mo
 ## Configuring the module ##
 
 To configure the module, log in to your administrator backend.
-Go to **_Extensions_** => **_Payments_**. In **_Payments list_** find the *ICEPAY OpenCart 3.x Online Payment Module* and click on the *Edit* button next to it [Fig. 5]. 
+Go to **_Extensions_** => **_Payments_**. In **_Payments list_** find the *ICEPAY OpenCart 3.x Payment Module* and click on the *Edit* button next to it [Fig. 5]. 
 
 ![fig. 5](https://raw.githubusercontent.com/wiki/ICEPAY/OpenCart-3.x/images/master/fig_5.PNG)
 
 Fig. 5
 
-**OpenCart** website will redirect you to the *ICEPAY OpenCart 3.x Online Payment Module* configuration page [Fig. 6], which has three tabs: *Merchant Settings*, *Status Codes*, *Payment methods*, and *About*.
+**OpenCart** website will redirect you to the *ICEPAY OpenCart 3.x Payment Module* configuration page [Fig. 6], which has three tabs: *Merchant Settings*, *Status Codes*, *Payment methods*, and *About*.
 
 ![fig. 6](https://raw.githubusercontent.com/wiki/ICEPAY/OpenCart-3.x/images/master/fig_6.PNG)
 
