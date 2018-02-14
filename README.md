@@ -9,7 +9,7 @@
 With this module you will be able to offer a vast variety of most frequently used national and international online payment methods including iDEAL, GIROPAY, sofortbanking, text/sms payments, phone payments, credit cards Visa, MasterCard, American Express, Diners Club International, Maestro International, JCB, Laser, Carte Bleue, Dankort, CartaSi, debit cards and many other payment solutions for worldwide internet commerce.
 
 ## Compatibility ##
-ICEPAY OpenCart 3.x Online Payment Module is compatible with the following OpenCart versions: 
+ICEPAY OpenCart 3.x Payment Module is compatible with the following OpenCart versions: 
 **3.0.0.0**; **3.0.1.1**; **3.0.1.2**; **3.0.2.0**
 
 Compatibility with other versions of OpenCart has not been tested.
