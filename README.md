@@ -22,7 +22,7 @@ This module is available under the BSD-2-Clause. See the [LICENSE](https://githu
 
 [Download](https://github.com/ICEPAY/OpenCart-3.x/releases) the latest version of the archive containing files required for the installation of *ICEPAY OpenCart 3.x Payment Module*. The archive contains the module, README, LICENSE, and user manual files.
 
-To upload *ICEPAY OpenCart 3.x Online Payment Module*, navigate to **_Extensions_** => **_Installer_** and click on the **_Upload_** button [Fig.1].
+To upload *ICEPAY OpenCart 3.x Payment Module*, navigate to **_Extensions_** => **_Installer_** and click on the **_Upload_** button [Fig.1].
 
 ![fig. 1](https://raw.githubusercontent.com/wiki/ICEPAY/OpenCart-3.x/images/master/fig_1.PNG)
 
@@ -98,5 +98,5 @@ If you found a repeatable bug, and troubleshooting tips didn't help, be sure to 
 
 Our support team professionals are always on standby and ready to assist you with installing and configuring the Module, or answer any questions relating to OpenCart-3.x Module troubleshooting. However, before sending a request, check in our [**FAQ**](https://github.com/ICEPAY/OpenCart-3.x/wiki/FAQ) section whether your question has already been answerd.
 
-Find a detailed installation instruction on ICEPAY OpenCart 3.x Online Payment Module [wiki](https://github.com/ICEPAY/OpenCart-3.x/wiki), create an issue [here](https://github.com/ICEPAY/OpenCart-3.x/issues) or leave your support request by sending an [email](mailto:modules@icepay.com?subject=ICEPAY%20OpenCart%203.x%20Online%20Payment%20Module). 
+Find a detailed installation instruction on ICEPAY OpenCart 3.x Payment Module [wiki](https://github.com/ICEPAY/OpenCart-3.x/wiki), create an issue [here](https://github.com/ICEPAY/OpenCart-3.x/issues) or leave your support request by sending an [email](mailto:modules@icepay.com?subject=ICEPAY%20OpenCart%203.x%20Online%20Payment%20Module). 
 
