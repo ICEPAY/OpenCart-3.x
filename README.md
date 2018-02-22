@@ -54,7 +54,7 @@ To configure the module, log in to your administrator backend.
 Go to **_Extensions_** => **_Payments_**. In **_Payments list_** find the *ICEPAY OpenCart 3.x Payment Module* and click on the *Edit* button next to it [Fig. 5]. 
 
 ![fig. 5](https://raw.githubusercontent.com/wiki/ICEPAY/OpenCart-3.x/images/master/fig_5.PNG)
-
+e
 Fig. 5
 
 **OpenCart** website will redirect you to the *ICEPAY OpenCart 3.x Payment Module* configuration page [Fig. 6], which has three tabs: *Merchant Settings*, *Status Codes*, *Payment methods*, and *About*.
@@ -96,7 +96,7 @@ If you found a repeatable bug, and troubleshooting tips didn't help, be sure to 
 
 ## Help ##
 
-Our support team professionals are always on standby and ready to assist you with installing and configuring the Module, or answer any questions relating to OpenCart-3.x Module troubleshooting. However, before sending a request, check in our [**FAQ**](https://github.com/ICEPAY/OpenCart-3.x/wiki/FAQ) section whether your question has already been answerd.
+Our support team professionals are always on standby and ready to assist you with installing and configuring the Module, or answer any questions relating to OpenCart-3.x Module troubleshooting. However, before sending a request, check in our [**FAQ**](https://github.com/ICEPAY/OpenCart-3.x/wiki/FAQ) section whether your question has already been answered.
 
 Find a detailed installation instruction on ICEPAY OpenCart 3.x Payment Module [wiki](https://github.com/ICEPAY/OpenCart-3.x/wiki), create an issue [here](https://github.com/ICEPAY/OpenCart-3.x/issues) or leave your support request by sending an [email](mailto:modules@icepay.com?subject=ICEPAY%20OpenCart%203.x%20Online%20Payment%20Module). 
 
