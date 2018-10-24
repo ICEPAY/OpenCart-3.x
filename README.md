@@ -6,7 +6,7 @@
 ## Introduction ##
 *ICEPAY OpenCart 3.x Payment Module* is a more robust, reliable and, at the same time, more powerful, flexible and secure version of our time-tested extension that enables the use of ICEPAY payment methods for OpenCart webshops. Integrating ICEPAY with OpenCart 3.x is simple and seamless for customers, and fast and easy for installation and maintenance at the back end.
 
-With this module you will be able to offer a vast variety of most frequently used national and international online payment methods including iDEAL, GIROPAY, sofortbanking, text/sms payments, phone payments, credit cards Visa, MasterCard, American Express, Diners Club International, Maestro International, JCB, Laser, Carte Bleue, Dankort, CartaSi, debit cards and many other payment solutions for worldwide internet commerce.
+With this module you will be able to offer a vast variety of most frequently used national and international online payment methods including iDEAL, GIROPAY, sofortbanking, text/sms payments, phone payments, credit cards Visa, MasterCard, American Express, Diners Club International, Maestro International, JCB, Laser, Carte Bleue, Dankort, CartaSi, debit cards and many other payment solutions for worldwide internet commerce. 
 
 ## Compatibility ##
 ICEPAY OpenCart 3.x Payment Module is compatible with the following OpenCart versions: 
@@ -19,6 +19,8 @@ Compatibility with other versions of OpenCart has not been tested.
 This module is available under the BSD-2-Clause. See the [LICENSE](https://github.com/ICEPAY/OpenCart-3.x/blob/develop/LICENSE) file for more information.
 
 ## Installation ##
+
+A concise installation guide is presented below. A more detailed installation and configuration instruction can be found [here](https://github.com/ICEPAY/OpenCart-3.x/wiki).
 
 [Download](https://github.com/ICEPAY/OpenCart-3.x/releases) the latest version of the archive containing files required for the installation of *ICEPAY OpenCart 3.x Payment Module*. The archive contains the module, README, LICENSE, and user manual files.
 
