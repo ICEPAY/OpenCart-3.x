@@ -1,6 +1,5 @@
 ![](https://icepay.com/app/themes/icepay/dist/images/logos/logo_icepay.svg)
 
-
 # OpenCart 3.x Payment Module #
 
 ## Introduction ##
